@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjectMqtt</string>
+    <string name="title_activity_ubicacion">ubicacion</string>
+</resources>
