@@ -15,5 +15,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ProjectMqtt"
+rootProject.name = "Escuchando los colores"
 include ':app'
